@@ -1,0 +1,5 @@
+﻿  http_request_handler.cpp
+  server.cpp
+  Создание кода...
+D:\projects\сс++\server\server\server.cpp(70,30): warning C4244: аргумент: преобразование "SOCKET" в "int", возможна потеря данных
+  server_final.vcxproj -> D:\projects\сс++\server_final\x64\Debug\server_final.exe
